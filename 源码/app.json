@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/goods-details/index",
+    
+   
+    
+    "pages/wuliu/index",
+    
+    "pages/notice/show",
+    "pages/kanjia/index",
+    "pages/category/index",
+    "pages/classify/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#EEEEEE",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
